@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to bottom, #d80606, #ca0606, #bd0506, 
+	#af0506, #a20506, #92020e, #810212, #700414, #560917, #3c0c16, 
+	#230b10, #000000);
+	background-size: 100vw 100vh;
+	background-repeat: no-repeat;
+    }
+
+    h1{
+        font-size: 60px;
+        font-family: fantasy;
+        color: white;
+    }
+
+    p{
+        font-family: monospace;
+        font-size: 15px;
+        font-style: oblique;
+        font-variant: initial;
+        color: white;
+    }
